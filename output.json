@@ -1,0 +1,49 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "formatted_address" : "45 Rue de Paradis, 75010 Paris, France",
+         "geometry" : {
+            "location" : {
+               "lat" : 48.875274,
+               "lng" : 2.34978
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.87674632989272,
+                  "lng" : 2.351169679892722
+               },
+               "southwest" : {
+                  "lat" : 48.87404667010728,
+                  "lng" : 2.348470020107277
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "8725c390d196c5244c131b7963c6f257fba0e5b0",
+         "name" : "Spendesk",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4480,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102769107828709212874/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAATW1HWouhxfnTEXL1RELxgnR7IwqbSbnWa1zsIdUPMDRTbpIATu4KSWVh1tU2aGAlSdUc5ejeoFiXdz3b9bts8TMsyOggFXaNW-rwq3gtE2E_Cavfr1Zey1ggvJhlX_NAEhCKjk1SKjOr6hHad1ZVlfPtGhQUIlTBeJyEMGuIf-RvFqKyMKMtyg",
+               "width" : 6720
+            }
+         ],
+         "place_id" : "ChIJd4kyKN5t5kcRODAszHxRhMU",
+         "plus_code" : {
+            "compound_code" : "V8GX+4W Paris, France",
+            "global_code" : "8FW4V8GX+4W"
+         },
+         "rating" : 5,
+         "reference" : "ChIJd4kyKN5t5kcRODAszHxRhMU",
+         "types" : [ "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}
